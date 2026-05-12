@@ -1,0 +1,16 @@
+{
+  "name": "SA Broking Services - Personal Proposal",
+  "short_name": "SA Broking Personal",
+  "description": "SA Broking Services Personal Insurance Proposal Form",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEF1F5",
+  "theme_color": "#162338",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='24' fill='%23162338'/><text x='50%' y='56%' dominant-baseline='middle' text-anchor='middle' font-size='110' font-family='sans-serif'>📋</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
